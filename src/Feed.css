@@ -33,6 +33,10 @@
   font-weight: 600;
 }
 
+.feed__input > form > input:active {
+  border: 0;
+}
+
 .feed__input > form > button {
   display: none;
 }
